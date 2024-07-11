@@ -23,3 +23,7 @@ Tools Used:
 Excel for data cleaning. Tableau/Power BI for data visualization and analysis.
 
 Skills Demonstrated: Data cleaning and preparation. Data visualization and analysis. Strategic thinking and business insight development. Effective communication of complex data insights.
+
+I have attached a Tablea and PowerBI file to this repository please kindly Check to get all  the visualisations i have made regarding this analysis 
+
+Thank You
